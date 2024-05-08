@@ -13,6 +13,20 @@ In an era characterized by increasing awareness of the importance of preserving 
 # Total project endpoints:55
 
 # My endpoints:
+-create contract
+-cancel contract
+-view comments on farmers
+-view comments of farm
+-view comments of specialists
+-cancel order plant
+-comment on order plant
+-request farmer
+-cancel request farmer
+-comment on order farmer
+-request guidance
+-cancel request guidance
+-comment on request guidance
+
 
 # Our team:
 - Sara Nasser Alhazaa
@@ -28,3 +42,4 @@ In an era characterized by increasing awareness of the importance of preserving 
 - Spring Security
    
 # Email:
+khaledalkuhaily@gmail.com
